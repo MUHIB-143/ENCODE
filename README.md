@@ -1,5 +1,6 @@
 # ENCODE
-Special Encode Tool
+
+<h2 style="color: green">Special Encode Tool</h2>
 
 rm -rf ENCODE
 
