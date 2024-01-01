@@ -2,7 +2,7 @@
 
 <h2 style="color: green;">Special Encode Tool</h2>
 
-<p style="color: red;">rm -rf ENCODE</p>p>
+<p style="color: red;">rm -rf ENCODE</p>
 
 git clone https://github.com/MUHIB-143/ENCODE
 
