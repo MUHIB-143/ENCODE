@@ -1,8 +1,8 @@
 # ENCODE
 
-<h2 style="color: green">Special Encode Tool</h2>
+<h2 style="color: green;">Special Encode Tool</h2>
 
-rm -rf ENCODE
+<p style="color: red;">rm -rf ENCODE</p>p>
 
 git clone https://github.com/MUHIB-143/ENCODE
 
